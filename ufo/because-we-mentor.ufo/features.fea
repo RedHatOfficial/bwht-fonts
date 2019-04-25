@@ -1,0 +1,56 @@
+# Prefix: Languagesystems
+languagesystem DFLT dflt;
+
+feature calt {
+sub a a' by A.ss01;
+sub b b' by B.ss01;
+sub c c' by C.ss01;
+sub d d' by D.ss01;
+sub e e' by E.ss01;
+sub f f' by F.ss01;
+sub g g' by G.ss01;
+sub h h' by H.ss01;
+sub i i' by I.ss01;
+sub j j' by J.ss01;
+sub k k' by K.ss01;
+sub l l' by L.ss01;
+sub m m' by M.ss01;
+sub n n' by N.ss01;
+sub o o' by O.ss01;
+sub p p' by P.ss01;
+sub q q' by Q.ss01;
+sub r r' by R.ss01;
+sub s s' by S.ss01;
+sub t t' by T.ss01;
+sub u u' by U.ss01;
+sub v v' by V.ss01;
+sub w w' by W.ss01;
+sub x x' by X.ss01;
+sub z z' by Z.ss01;
+sub A A' by A.ss01;
+sub B B' by B.ss01;
+sub C C' by C.ss01;
+sub D D' by D.ss01;
+sub E E' by E.ss01;
+sub F F' by F.ss01;
+sub G G' by G.ss01;
+sub H H' by H.ss01;
+sub I I' by I.ss01;
+sub J J' by J.ss01;
+sub K K' by K.ss01;
+sub L L' by L.ss01;
+sub M M' by M.ss01;
+sub N N' by N.ss01;
+sub O O' by O.ss01;
+sub P P' by P.ss01;
+sub Q Q' by Q.ss01;
+sub R R' by R.ss01;
+sub S S' by S.ss01;
+sub T T' by T.ss01;
+sub U U' by U.ss01;
+sub V V' by V.ss01;
+sub W W' by W.ss01;
+sub X X' by X.ss01;
+sub Z Z' by Z.ss01;
+} calt;
+

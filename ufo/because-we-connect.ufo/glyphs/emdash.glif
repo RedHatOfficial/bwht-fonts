@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="emdash" format="1">
+  <advance width="788"/>
+  <unicode hex="2014"/>
+  <outline>
+    <contour>
+      <point x="32" y="263" type="line"/>
+      <point x="41" y="264"/>
+      <point x="48" y="263"/>
+      <point x="53" y="263" type="curve" smooth="yes"/>
+      <point x="87" y="262"/>
+      <point x="120" y="262"/>
+      <point x="155" y="263" type="curve" smooth="yes"/>
+      <point x="286" y="264"/>
+      <point x="467" y="269"/>
+      <point x="599" y="271" type="curve" smooth="yes"/>
+      <point x="668" y="272"/>
+      <point x="647" y="272"/>
+      <point x="715" y="275" type="curve" smooth="yes"/>
+      <point x="739" y="276"/>
+      <point x="741" y="279"/>
+      <point x="738" y="308" type="curve"/>
+      <point x="737" y="324"/>
+      <point x="735" y="340"/>
+      <point x="734" y="360" type="curve"/>
+      <point x="727" y="359"/>
+      <point x="723" y="361"/>
+      <point x="718" y="360" type="curve"/>
+      <point x="591" y="357"/>
+      <point x="342" y="351"/>
+      <point x="214" y="351" type="curve" smooth="yes"/>
+      <point x="106" y="352"/>
+      <point x="158" y="355"/>
+      <point x="51" y="356" type="curve"/>
+      <point x="43" y="358"/>
+      <point x="36" y="356"/>
+      <point x="26" y="356" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-03-20 23:36:59 +0000</string>
+    </dict>
+  </lib>
+</glyph>

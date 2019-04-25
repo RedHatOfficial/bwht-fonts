@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="I.ss01" format="1">
+  <advance width="169"/>
+  <outline>
+    <contour>
+      <point x="21" y="568" type="line"/>
+      <point x="28" y="432"/>
+      <point x="37" y="292"/>
+      <point x="50" y="155" type="curve" smooth="yes"/>
+      <point x="55" y="101"/>
+      <point x="80" y="3"/>
+      <point x="122" y="3" type="curve" smooth="yes"/>
+      <point x="140" y="3"/>
+      <point x="152" y="15"/>
+      <point x="152" y="37" type="curve" smooth="yes"/>
+      <point x="152" y="89"/>
+      <point x="125" y="142"/>
+      <point x="120" y="191" type="curve" smooth="yes"/>
+      <point x="108" y="309"/>
+      <point x="101" y="428"/>
+      <point x="90" y="549" type="curve"/>
+      <point x="90" y="563" type="line" smooth="yes"/>
+      <point x="90" y="583"/>
+      <point x="87" y="616"/>
+      <point x="55" y="616" type="curve" smooth="yes"/>
+      <point x="27" y="616"/>
+      <point x="23" y="584"/>
+      <point x="21" y="568" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-03-20 23:28:45 +0000</string>
+    </dict>
+  </lib>
+</glyph>

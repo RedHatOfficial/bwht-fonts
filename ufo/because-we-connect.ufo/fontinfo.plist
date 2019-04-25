@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascender</key>
+	<integer>800</integer>
+	<key>capHeight</key>
+	<integer>700</integer>
+	<key>copyright</key>
+	<string>Copyright © 2019 by Red Hat. All rights reserved.</string>
+	<key>descender</key>
+	<integer>-200</integer>
+	<key>familyName</key>
+	<string>Because We Connect</string>
+	<key>openTypeHeadCreated</key>
+	<string>2019/04/22 12:35:33</string>
+	<key>openTypeNameDescription</key>
+	<string>Copyright (c) 2019 by Red Hat. All rights reserved.</string>
+	<key>openTypeNameDesigner</key>
+	<string>Liz Wetzel, Aaron Williamson, Russ McMullin</string>
+	<key>openTypeNameDesignerURL</key>
+	<string>https://www.redhat.com/en/open-source-stories/because-we-had-to</string>
+	<key>openTypeNameManufacturer</key>
+	<string>Red Hat</string>
+	<key>openTypeNameManufacturerURL</key>
+	<string>https://www.redhat.com</string>
+	<key>openTypeNamePreferredFamilyName</key>
+	<string>Because We Connect</string>
+	<key>openTypeNamePreferredSubfamilyName</key>
+	<string>Regular</string>
+	<key>openTypeOS2WeightClass</key>
+	<integer>400</integer>
+	<key>openTypeOS2WidthClass</key>
+	<integer>5</integer>
+	<key>postscriptBlueValues</key>
+	<array>
+		<integer>-21</integer>
+		<integer>0</integer>
+		<integer>450</integer>
+		<integer>465</integer>
+		<integer>700</integer>
+		<integer>715</integer>
+		<integer>800</integer>
+		<integer>816</integer>
+	</array>
+	<key>postscriptFontName</key>
+	<string>Because We Connect</string>
+	<key>postscriptFullName</key>
+	<string>Because We Connect</string>
+	<key>postscriptOtherBlues</key>
+	<array>
+		<integer>-216</integer>
+		<integer>-200</integer>
+	</array>
+	<key>styleMapStyleName</key>
+	<string>regular</string>
+	<key>styleName</key>
+	<string>Regular</string>
+	<key>unitsPerEm</key>
+	<integer>1000</integer>
+	<key>versionMajor</key>
+	<integer>1</integer>
+	<key>versionMinor</key>
+	<integer>0</integer>
+	<key>xHeight</key>
+	<integer>450</integer>
+</dict>
+</plist>
