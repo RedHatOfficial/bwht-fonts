@@ -1,0 +1,26 @@
+@aalt1 = [ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z ];
+
+@aalt2 = [ a b c d e f g h i j k l m n o p q r s t u v w x y z ];
+
+# Prefix: Languagesystems
+# automatic
+languagesystem DFLT dflt;
+languagesystem latn dflt;
+
+feature aalt {
+feature calt;
+} aalt;
+
+feature calt {
+# Contextual Alternates
+ # DEFAULT
+    sub @aalt1 @aalt1' by [a b c d e f g h i j k l m n o p q r s t u v w x y z];
+ script latn; # Latin
+lookup calt2 {
+    sub @aalt1 @aalt1' by [a b c d e f g h i j k l m n o p q r s t u v w x y z];
+} calt2;
+lookup calt3 {
+    sub @aalt1 @aalt1' by [a b c d e f g h i j k l m n o p q r s t u v w x y z];
+} calt3;
+} calt;
+
