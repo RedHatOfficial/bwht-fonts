@@ -1,4 +1,4 @@
-# Because We Hat To Fonts
+# Because We Had To Fonts
 
 ## Designers
 
