@@ -8,8 +8,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Haeret in salebra. Neut
 
 
 ### Liz Wetzel 
-
-Sed ille, ut dixi, vitiose. Duo Reges: constructio interrete. Id [redacted]tilius factum negabat. Nam ante Aristippus, et ille melius.
+Senior Graphic Designer, Creative Strategy + Design team, Red Hat
 
 
 ### Aaron Williamson 
